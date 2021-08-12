@@ -1,4 +1,7 @@
 # CAT-module-SMU
+
+Last update: March 2021
+
 My code for Spreadsheet and Modelling module group project at SMU
 Code used: Python 3.7 & VBA
 NOTE: The excel file employed the Bloomberg plug-ins provided by my school library. The code will not collect live data unless you have it installed on your computer.
