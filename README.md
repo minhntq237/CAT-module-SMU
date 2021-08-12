@@ -6,3 +6,5 @@ NOTE: The excel file employed the Bloomberg plug-ins provided by my school libra
 Description: This is a rudimentary trading bot designed by my group, with me as the main programmer. The aim is to simulate the trading of futures and ETF stocks.
 With python scripts, I use the BeautifulSoup library to automate daily data scraping from Singapore MSCI futures and STI ETF website.
 Using VBA, the live data collected from the Bloomberg Plugin and data scraped at the beginning trading hours of each day are continuously analyzed and calculated, and deciding to enter or exit a position. All of these are recorded on the excel sheet
+
+Total time taken: 3 days, average 5-6 hours each day
